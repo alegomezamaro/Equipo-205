@@ -1,0 +1,5 @@
+Alejandro Gómez Amaro|54590546T|p32goama@uco.com|Ingeniería Informática|UPM009|URV012|2024-12-10|Pendiente
+Javier Jesús Costa Ruiz-Canela|46266885Q|i32coruj@gmail.com|Ingeniería Informática|USAL005|UC008|2024-12-14|Pendiente
+Javier Castilla Arroyo|46073606H|i32casaj@uco.es|Ingeniería Mecánica|UA011|UNAV014|2024-12-13|Pendiente
+Manuel Díaz Extremera|46270525E|p42diexm@uco.es|Ingeniería Mecánica|UA011|UNAV014|ULPGC013|2024-12-16|Pendiente
+Nombre Estudiante|12345678A|ejemplo@uco.es|Ingeniería Mecánica|UMA002|USAL005|2024-12-18|Pendiente
