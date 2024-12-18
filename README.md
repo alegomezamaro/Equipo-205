@@ -35,7 +35,7 @@ La herramienta permite a estudiantes, profesores y administradores gestionar de 
 ## **Compilar**
 Para compilar el programa, una vez descargada la carpeta debemos compilar:
 ```
-|-- g++ menu.cc constructores.cc -o menu
+g++ menu.cc constructores.cc -o menu
 ```
 
 ## **Autores**
