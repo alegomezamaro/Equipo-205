@@ -31,5 +31,12 @@ La herramienta permite a estudiantes, profesores y administradores gestionar de 
 |-- constructores.cc   # Constructores de todas las clases.
 ```
 
+
+## **Compilar**
+Para compilar el programa, una vez descargada la carpeta debemos compilar:
+```
+|-- g++ menu.cc constructores.cc -o menu
+```
+
 ## **Autores**
 Alejandro Gómez Amaro, Jorge Santos Jiménez, Raúl Castillo Díaz.
