@@ -1,5 +1,5 @@
 // Archivo: Usuario.h
-#ifndef USUARIO_H
+#ifndef USUARIO_H 
 #define USUARIO_H
 
 #include <string>
