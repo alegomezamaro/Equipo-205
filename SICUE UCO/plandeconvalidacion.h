@@ -1,5 +1,5 @@
 // Archivo: PlanDeConvalidacion.h
-// Archivo: PlanDeConvalidacion.h
+// Archivo: PlanDeConvalidacion.h 
 #ifndef PLAN_DE_CONVALIDACION_H
 #define PLAN_DE_CONVALIDACION_H
 
