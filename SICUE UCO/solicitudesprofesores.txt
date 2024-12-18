@@ -1,5 +1,0 @@
-Alejandro Gómez Amaro|54590546T|p32goama@uco.com|Departamento de Ingeniería de Software|USAL005|UC008|2024-12-11|Pendiente
-Javier Jesús Costa Ruiz-Canela|46266885Q|i32coruj@gmail.com|Departamento de Ingeniería de Computación|USAL005|UC008|2024-12-14|Pendiente
-Javier Castilla Arroyo|46073606H|i32casaj@uco.es|Departamento de Ingeniería de Computadores|URV012|2024-12-13|Pendiente
-Manuel Díaz Extremera|46270525E|p42diexm@uco.es|Departamento de Ingeniería Eléctrica Industrial|USC010|UA011|UMA002|2024-12-16|Pendiente
-Nombre Profesor|12345678A|ejemplo@uco.es|Departamento de Ingeniería Eléctrica Industrial|USC010|UA011|UMA002|2024-12-16|Pendiente
