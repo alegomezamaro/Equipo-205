@@ -1,5 +1,5 @@
 // Archivo: Constructores.cc
-//Constructor de todas las clases
+//Constructor de todas las clases 
 #include "Universidad.h"
 #include "Asignatura.h"
 #include "PlanDeConvalidacion.h"
