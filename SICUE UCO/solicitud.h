@@ -1,5 +1,5 @@
 // Archivo: Solicitud.h
-#ifndef SOLICITUD_H
+#ifndef SOLICITUD_H 
 #define SOLICITUD_H
 
 #include <string>
