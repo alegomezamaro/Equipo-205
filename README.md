@@ -25,7 +25,7 @@ La herramienta permite a estudiantes, profesores y administradores gestionar de 
 |-- menu.cc            # Lógica principal del menú y vistas.
 |-- Usuario.h          # Definición de la clase Usuario.
 |-- Solicitud.h        # Definición de la clase Solicitud.
-|-- PlanDeConvalidacion.h # Definición de los planes de convalidación.
+|-- PlanDeConvalidacion.h   # Definición de los planes de convalidación.
 |-- Universidad.h      # Clases relacionadas con universidades.
 |-- Asignatura.h       # Clases relacionadas con asignaturas.
 |-- constructores.cc   # Constructores de todas las clases.
