@@ -203,6 +203,10 @@ void crearPlanDeConvalidacion() {
             cout << "-> Error al abrir el archivo planesprofesores.txt.\n";
         }
     } else if (tipo == 2) {
+        string carrera;
+        cout << "Ingrese la carrera: ";
+        cin.ignore();
+        cin >> carrera;
         int numAsignaturas;
         cout << "Ingrese el número de asignaturas: ";
         cin >> numAsignaturas;
@@ -229,7 +233,7 @@ void crearPlanDeConvalidacion() {
 
         ofstream archivo("planesestudiantes.txt", ios::app);
         if (archivo.is_open()) {
-            archivo << universidadId << "|" << duracion << "|" << universidadFacultad << "|" << universidadDireccion;
+            archivo << universidadId << "|" << duracion << "|" << universidadFacultad << "|" << universidadDireccion << "|" << carrera;
             for (const auto& asignatura : asignaturas) {
                 archivo << "|" << asignatura.obtenerNombre() << " (Código: " << asignatura.obtenerCodigo() << ", Créditos: " << asignatura.obtenerCreditos() << ")";
             }
