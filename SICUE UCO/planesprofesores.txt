@@ -1,4 +1,4 @@
-US001|6 meses|Facultad de Ingeniería|Av. Reina Mercedes, Sevilla|Ingeniería Informática|Departamento de Ciencias de la Computación
+US001|6 meses|Facultad de Ingeniería|Av. Reina Mercedes, Sevilla|Ingeniería Informática|Departamento de Ciencias de la Computación 
 UMA002|1 año|Facultad de Ciencias|Bulevar Louis Pasteur, Málaga|Ingeniería Mecánica|Departamento de Ingeniería Térmica
 UPC003|6 meses|Facultad de Informática|C. Jordi Girona, Barcelona|Ingeniería Informática|Departamento de Software y Sistemas
 UV004|1 año|Facultad de Medicina|Av. Blasco Ibáñez, Valencia|Ingeniería Mecánica|Departamento de Materiales
