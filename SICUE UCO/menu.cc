@@ -1,5 +1,5 @@
 // Archivo: Menu.cc 
-//Menu del programa
+//Menu del programa 
 //g++ menu.cc constructores.cc -o menu
 #include <iostream>
 #include <string>
